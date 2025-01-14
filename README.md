@@ -1,18 +1,11 @@
 # OpenClash AdBlock
-<div align="center"><h3>Hunter x Hunter - Ohayou (Cover by kena yokie x miyuki)</h3>
-  
-<a href="https://youtu.be/oaTRssMI66c" target=”_blank”>
- <img src="http://img.youtube.com/vi/oaTRssMI66c/mqdefault.jpg" alt="Watch the video" width="400" height="400" border="10" />
-</a><br />
-<i>(Mari mengenang masa lalu dulu. Click on the image above)</i><br /><br />
-</div>
-
 Ini adalah adblock untuk openclash, source list diambil dari `oisd.nl`. Source list diupdate setiap hari secara otomatis oleh bot github.
 
 | PACK NAME | DESCRIPTION | SOURCES |
 |---------|:-------:|:-----:|
-oisd big | Blocks Ads, (Mobile) App Ads, Phishing, Malvertising, Malware, Spyware, Ransomware, CryptoJacking, Scam, ... Telemetry/Analytics/Tracking (Where not needed for proper functionality) | https://big.oisd.nl/domainswild |
-oisd small | Mainly focusses on blocking ads | https://small.oisd.nl/domainswild |
+OISD Big | Blocks Ads, (Mobile) App Ads, Phishing, Malvertising, Malware, Spyware, Ransomware, CryptoJacking, Scam, ... Telemetry/Analytics/Tracking (Where not needed for proper functionality) | https://big.oisd.nl/domainswild |
+OISD Small | Mainly focusses on blocking ads | https://small.oisd.nl/domainswild |
+OISD NSFW | Blocks porn/shock/adult sites | https://nsfw.oisd.nl/domainswild
 adaway | Blocklist suitable for android / iOS, it focuses on blocking mobile ad providers. | https://adaway.org/hosts.txt |
 ABPindo | It focuses on blocking Indonesian & Malaysian ads | https://github.com/ABPindo/indonesianadblockrules |
 
