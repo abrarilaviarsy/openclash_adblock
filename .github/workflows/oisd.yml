@@ -29,12 +29,7 @@ jobs:
           awk '/^\*\./ && !x {print "# OpenClash AdBlock: https://github.com/abrarilaviarsy/openclash_adblock \n\npayload:"; x=1} 1' oisd_nsfw_domainswild.txt > oisd_nsfw.yaml
           sed -i 's/^[*]\./  - DOMAIN-SUFFIX,/g' oisd_nsfw.yaml
           rm -fr oisd_nsfw.yamle oisd_nsfw_domainswild.txt
-
-          echo "Downloading Fuck fuckadblock..."
-          curl -s 'https://github.com/bogachenko/fuckfuckadblock' -o fuckfuckadblock.txt
-          awk '/^\*\./ && !x {print "# OpenClash AdBlock: https://github.com/abrarilaviarsy/openclash_adblock \n\npayload:"; x=1} 1' fuckfuckadblock.txt > fuckfuckadblock.yaml
-          sed -i 's/^[*]\./  - DOMAIN-SUFFIX,/g' oisd_nsfw.yaml
-          rm -fr fuckfuckadblock.yamle fuckfuckadblock.txt
+      
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Automatic update
