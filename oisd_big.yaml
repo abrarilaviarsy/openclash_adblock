@@ -1,9 +1,9 @@
-# Version: 202508310121
+# Version: 202508310522
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 203853
-# Last modified: 2025-08-31T01:21:46+0000
+# Entries: 203860
+# Last modified: 2025-08-31T05:22:03+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14423,6 +14423,7 @@ payload:
   - DOMAIN-SUFFIX,alebilet.pl-oferta523921.cfd
   - DOMAIN-SUFFIX,alebilet.pl-oferta5948271634.icu
   - DOMAIN-SUFFIX,alebilet.pl-oferta5950566.icu
+  - DOMAIN-SUFFIX,alebilet.pl-oferta616936.icu
   - DOMAIN-SUFFIX,alebilet.pl-oferta6326635.cfd
   - DOMAIN-SUFFIX,alebilet.pl-oferta746478.com
   - DOMAIN-SUFFIX,alebilet.pl-oferta7491.cfd
@@ -15005,6 +15006,7 @@ payload:
   - DOMAIN-SUFFIX,allegro.pl-oferta523921.cfd
   - DOMAIN-SUFFIX,allegro.pl-oferta5950566.icu
   - DOMAIN-SUFFIX,allegro.pl-oferta6326635.cfd
+  - DOMAIN-SUFFIX,allegro.pl-oferta76830637.cfd
   - DOMAIN-SUFFIX,allegro.pl-oferta78851522.cfd
   - DOMAIN-SUFFIX,allegro.pl-oferta78851524.cfd
   - DOMAIN-SUFFIX,allegro.pl-oferta875882334.cfd
@@ -105862,6 +105864,7 @@ payload:
   - DOMAIN-SUFFIX,lorealote.life
   - DOMAIN-SUFFIX,lorel.fr
   - DOMAIN-SUFFIX,lorenzourban.com
+  - DOMAIN-SUFFIX,loreqzc.cc
   - DOMAIN-SUFFIX,lorete.pl
   - DOMAIN-SUFFIX,lori-rebecca.us
   - DOMAIN-SUFFIX,lorifero-mejora.net
@@ -134111,6 +134114,7 @@ payload:
   - DOMAIN-SUFFIX,pl-oferta10703504.cyou
   - DOMAIN-SUFFIX,pl-oferta107482.cyou
   - DOMAIN-SUFFIX,pl-oferta107842.cyou
+  - DOMAIN-SUFFIX,pl-oferta1078946.cyou
   - DOMAIN-SUFFIX,pl-oferta1082902.shop
   - DOMAIN-SUFFIX,pl-oferta110121.icu
   - DOMAIN-SUFFIX,pl-oferta1125135.cfd
@@ -134150,6 +134154,7 @@ payload:
   - DOMAIN-SUFFIX,pl-oferta1896550.sbs
   - DOMAIN-SUFFIX,pl-oferta1905900.shop
   - DOMAIN-SUFFIX,pl-oferta191220162.icu
+  - DOMAIN-SUFFIX,pl-oferta1923817.sbs
   - DOMAIN-SUFFIX,pl-oferta192473.top
   - DOMAIN-SUFFIX,pl-oferta194.pl
   - DOMAIN-SUFFIX,pl-oferta19439.icu
@@ -189676,6 +189681,7 @@ payload:
   - DOMAIN-SUFFIX,vinted.receive627.run
   - DOMAIN-SUFFIX,vinted.vendaverification.com
   - DOMAIN-SUFFIX,vinted.verification-system.com
+  - DOMAIN-SUFFIX,vinted.verify-check.com
   - DOMAIN-SUFFIX,vinted.verifyprocess990276.com
   - DOMAIN-SUFFIX,vinted.vintedverify905217paypal.com
   - DOMAIN-SUFFIX,vinted.zt6bgo.world
@@ -190540,6 +190546,7 @@ payload:
   - DOMAIN-SUFFIX,vncdz213.ddns.net
   - DOMAIN-SUFFIX,vnchinhphu.cc
   - DOMAIN-SUFFIX,vncik1psdrrbl.life
+  - DOMAIN-SUFFIX,vncp-etax.com
   - DOMAIN-SUFFIX,vnebi.com
   - DOMAIN-SUFFIX,vnemira.ru
   - DOMAIN-SUFFIX,vnexpresss.com
