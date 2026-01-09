@@ -1,9 +1,9 @@
-# Version: 202601080506
+# Version: 202601082025
 # Title: oisd nsfw
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 369045
-# Last modified: 2026-01-08T05:06:51+0000
+# Entries: 369044
+# Last modified: 2026-01-08T20:25:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -235865,7 +235865,6 @@ payload:
   - DOMAIN-SUFFIX,pinkueiga.net
   - DOMAIN-SUFFIX,pinkunity.nl
   - DOMAIN-SUFFIX,pinkvanilla.hu
-  - DOMAIN-SUFFIX,pinkvilla.com
   - DOMAIN-SUFFIX,pinkvipcams.com
   - DOMAIN-SUFFIX,pinkvisitor.com
   - DOMAIN-SUFFIX,pinkvisual.com
