@@ -1,9 +1,9 @@
-# Version: 202602031730
+# Version: 202602041133
 # Title: oisd nsfw
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 441159
-# Last modified: 2026-02-03T17:30:36+0000
+# Entries: 441156
+# Last modified: 2026-02-04T11:33:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2320,7 +2320,6 @@ payload:
   - DOMAIN-SUFFIX,19youngporn.com
   - DOMAIN-SUFFIX,19youngporns.com
   - DOMAIN-SUFFIX,19zwo.de
-  - DOMAIN-SUFFIX,1a-1791.com
   - DOMAIN-SUFFIX,1a-amateurbilder.de
   - DOMAIN-SUFFIX,1a-camsex.com
   - DOMAIN-SUFFIX,1a-erotiktexte.com
@@ -3934,7 +3933,6 @@ payload:
   - DOMAIN-SUFFIX,2kiski.cam
   - DOMAIN-SUFFIX,2kiski.cc
   - DOMAIN-SUFFIX,2kiski.com
-  - DOMAIN-SUFFIX,2kmediat.com
   - DOMAIN-SUFFIX,2krota.ru
   - DOMAIN-SUFFIX,2ktube.com
   - DOMAIN-SUFFIX,2l1.top
@@ -309770,7 +309768,6 @@ payload:
   - DOMAIN-SUFFIX,readkaitlynk.com
   - DOMAIN-SUFFIX,readkakegurui.com
   - DOMAIN-SUFFIX,readli.net
-  - DOMAIN-SUFFIX,readly.com
   - DOMAIN-SUFFIX,readmagic.com
   - DOMAIN-SUFFIX,readmanga.cc
   - DOMAIN-SUFFIX,readmanga18.com
