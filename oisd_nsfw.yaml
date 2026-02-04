@@ -1,9 +1,9 @@
-# Version: 202602031206
+# Version: 202602031730
 # Title: oisd nsfw
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 441161
-# Last modified: 2026-02-03T12:06:22+0000
+# Entries: 441159
+# Last modified: 2026-02-03T17:30:36+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -68321,7 +68321,6 @@ payload:
   - DOMAIN-SUFFIX,cardbay.shop
   - DOMAIN-SUFFIX,cardboardwhore.blogspot.com
   - DOMAIN-SUFFIX,cardcarryinglesbian.com
-  - DOMAIN-SUFFIX,cardeasexml.com
   - DOMAIN-SUFFIX,carden-jp.com
   - DOMAIN-SUFFIX,cardenasxxx.blogspot.com
   - DOMAIN-SUFFIX,cardenfamily.net
@@ -386952,7 +386951,6 @@ payload:
   - DOMAIN-SUFFIX,thefoxsinn.net
   - DOMAIN-SUFFIX,thefoxtress.com
   - DOMAIN-SUFFIX,thefoxxx.com
-  - DOMAIN-SUFFIX,thefp.com
   - DOMAIN-SUFFIX,thefreakhouse.blogspot.com
   - DOMAIN-SUFFIX,thefreakyrock.de
   - DOMAIN-SUFFIX,thefree3dporn.com
