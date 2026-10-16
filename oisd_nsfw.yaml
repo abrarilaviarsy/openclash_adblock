@@ -1,9 +1,9 @@
-# Version: 202610160333
+# Version: 202610161206
 # Title: oisd nsfw
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 473424
-# Last modified: 2026-10-16T03:33:01+0000
+# Entries: 473423
+# Last modified: 2026-10-16T12:06:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -462972,7 +462972,6 @@ payload:
   - DOMAIN-SUFFIX,ydle.com.cn
   - DOMAIN-SUFFIX,ydlengbuliao.com
   - DOMAIN-SUFFIX,ydljx.com
-  - DOMAIN-SUFFIX,ydlsdl.com
   - DOMAIN-SUFFIX,ydm-ff.qaimlvsqhi.shop
   - DOMAIN-SUFFIX,ydmjfw.com
   - DOMAIN-SUFFIX,ydmoa.com
