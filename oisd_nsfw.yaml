@@ -1,9 +1,9 @@
-# Version: 202611022035
+# Version: 202611030106
 # Title: oisd nsfw
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 486037
-# Last modified: 2026-11-02T20:35:06+0000
+# Entries: 486038
+# Last modified: 2026-11-03T01:06:57+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -220754,6 +220754,7 @@ payload:
   - DOMAIN-SUFFIX,javmovievideo.blogspot.com
   - DOMAIN-SUFFIX,javmoviexxx.com
   - DOMAIN-SUFFIX,javmovs.com
+  - DOMAIN-SUFFIX,javmp4.com
   - DOMAIN-SUFFIX,javmq.com
   - DOMAIN-SUFFIX,javmup.art
   - DOMAIN-SUFFIX,javmup.bio
@@ -343042,7 +343043,6 @@ payload:
   - DOMAIN-SUFFIX,public-bound.com
   - DOMAIN-SUFFIX,public-disagrace-kostenlose-sexcommunitys.pages.dev
   - DOMAIN-SUFFIX,public-disgrace-bdsm-sex-toys-selber-basteln.pages.dev
-  - DOMAIN-SUFFIX,public-fucksome.com
   - DOMAIN-SUFFIX,public-hard.com
   - DOMAIN-SUFFIX,public-invasion.blogspot.com
   - DOMAIN-SUFFIX,public-label.xxx
@@ -462194,6 +462194,7 @@ payload:
   - DOMAIN-SUFFIX,xnxx.com.pe
   - DOMAIN-SUFFIX,xnxx.com.se
   - DOMAIN-SUFFIX,xnxx.com.ua
+  - DOMAIN-SUFFIX,xnxx.cool
   - DOMAIN-SUFFIX,xnxx.cr
   - DOMAIN-SUFFIX,xnxx.cx
   - DOMAIN-SUFFIX,xnxx.cz
