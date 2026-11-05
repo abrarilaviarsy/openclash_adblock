@@ -1,9 +1,9 @@
-# Version: 202611041807
+# Version: 202611042306
 # Title: oisd nsfw
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 486736
-# Last modified: 2026-11-04T18:07:04+0000
+# Last modified: 2026-11-04T23:06:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -409747,7 +409747,6 @@ payload:
   - DOMAIN-SUFFIX,taboo.desi
   - DOMAIN-SUFFIX,taboo.porn
   - DOMAIN-SUFFIX,taboo.sex
-  - DOMAIN-SUFFIX,taboo.talk
   - DOMAIN-SUFFIX,taboo.vip
   - DOMAIN-SUFFIX,taboo.zone
   - DOMAIN-SUFFIX,taboo18.com
@@ -443173,6 +443172,7 @@ payload:
   - DOMAIN-SUFFIX,vlsexhay.net
   - DOMAIN-SUFFIX,vlsexhay.xyz
   - DOMAIN-SUFFIX,vlsexhihi.cc
+  - DOMAIN-SUFFIX,vlsexhihi.one
   - DOMAIN-SUFFIX,vlsexmoi.cv
   - DOMAIN-SUFFIX,vlsexnhanh.pro
   - DOMAIN-SUFFIX,vlsextop.com
