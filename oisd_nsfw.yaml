@@ -1,9 +1,9 @@
-# Version: 202611210537
+# Version: 202611210906
 # Title: oisd nsfw
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 498353
-# Last modified: 2026-11-21T05:37:54+0000
+# Entries: 498357
+# Last modified: 2026-11-21T09:06:47+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -54166,6 +54166,7 @@ payload:
   - DOMAIN-SUFFIX,auntymaza.bond
   - DOMAIN-SUFFIX,auntymaza.cafe
   - DOMAIN-SUFFIX,auntymaza.cfd
+  - DOMAIN-SUFFIX,auntymaza.chat
   - DOMAIN-SUFFIX,auntymaza.city
   - DOMAIN-SUFFIX,auntymaza.co.im
   - DOMAIN-SUFFIX,auntymaza.com
@@ -54183,6 +54184,7 @@ payload:
   - DOMAIN-SUFFIX,auntymaza.quest
   - DOMAIN-SUFFIX,auntymaza.rest
   - DOMAIN-SUFFIX,auntymaza.team
+  - DOMAIN-SUFFIX,auntymaza.tech
   - DOMAIN-SUFFIX,auntymaza.uno
   - DOMAIN-SUFFIX,auntymaza.wiki
   - DOMAIN-SUFFIX,auntymaza.work
@@ -119337,6 +119339,7 @@ payload:
   - DOMAIN-SUFFIX,desixflix.vip
   - DOMAIN-SUFFIX,desixgirl.blogspot.com
   - DOMAIN-SUFFIX,desixhindix.in
+  - DOMAIN-SUFFIX,desixhub.asia
   - DOMAIN-SUFFIX,desixhub.digital
   - DOMAIN-SUFFIX,desiximage.blogspot.com
   - DOMAIN-SUFFIX,desixnxx.cc
@@ -236064,6 +236067,7 @@ payload:
   - DOMAIN-SUFFIX,kamababa14.com
   - DOMAIN-SUFFIX,kamababa2.com
   - DOMAIN-SUFFIX,kamababa22.com
+  - DOMAIN-SUFFIX,kamababa24.com
   - DOMAIN-SUFFIX,kamababa26.com
   - DOMAIN-SUFFIX,kamababa27.com
   - DOMAIN-SUFFIX,kamababa3.com
@@ -236074,6 +236078,7 @@ payload:
   - DOMAIN-SUFFIX,kamababaviral.com
   - DOMAIN-SUFFIX,kamababax.com
   - DOMAIN-SUFFIX,kamababax.skin
+  - DOMAIN-SUFFIX,kamababax.team
   - DOMAIN-SUFFIX,kamababaxxx.com
   - DOMAIN-SUFFIX,kamac.cn
   - DOMAIN-SUFFIX,kamadharmaarta.blogspot.com
@@ -305659,6 +305664,7 @@ payload:
   - DOMAIN-SUFFIX,onestoppornoshop.com
   - DOMAIN-SUFFIX,onestopxxx.com
   - DOMAIN-SUFFIX,onetalk.online
+  - DOMAIN-SUFFIX,onetap888.com
   - DOMAIN-SUFFIX,onetaporn.com
   - DOMAIN-SUFFIX,onetapporn.com
   - DOMAIN-SUFFIX,onetaxiride.com
@@ -470686,7 +470692,6 @@ payload:
   - DOMAIN-SUFFIX,xingkonghot.net
   - DOMAIN-SUFFIX,xingkongrukou.com
   - DOMAIN-SUFFIX,xingkongyingyuangaoqinghanju.org.cn
-  - DOMAIN-SUFFIX,xingkouzhen.com.cn
   - DOMAIN-SUFFIX,xinglaijuqingjieshao.cn
   - DOMAIN-SUFFIX,xinglaiyanyuanbiao.org.cn
   - DOMAIN-SUFFIX,xinglianqinhang.com
@@ -498188,7 +498193,6 @@ payload:
   - DOMAIN-SUFFIX,zzjfhb.com
   - DOMAIN-SUFFIX,zzjgyjz.com
   - DOMAIN-SUFFIX,zzjgyy120.com
-  - DOMAIN-SUFFIX,zzjhcf.com.cn
   - DOMAIN-SUFFIX,zzjism.com
   - DOMAIN-SUFFIX,zzjj.live
   - DOMAIN-SUFFIX,zzjj.shop
